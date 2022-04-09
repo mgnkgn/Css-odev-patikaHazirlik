@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+/* body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+body {
+  display: flex;
+  flex-direction: column;
+}
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 150px 0;
+}
